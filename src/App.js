@@ -10,12 +10,6 @@ class App extends Component {
       content: '### Type Markdown Here'
     }
   }
-  
-  getInitialState (){
-    return {
-      content: '### Type Markdown Here'
-    }
-  }
 
   render() {
     return (
